@@ -1,0 +1,5 @@
+{
+  "name": "Wave Modulation Simulator",
+  "description": "An interactive web application for simulating and visualizing various analog and digital modulation techniques. Adjust carrier, modulating, and modulation parameters in real-time to see their effects on the resulting waveforms.",
+  "requestFramePermissions": []
+}
